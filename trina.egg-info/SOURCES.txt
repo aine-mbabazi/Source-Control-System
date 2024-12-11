@@ -1,0 +1,7 @@
+README.md
+setup.py
+trina.egg-info/PKG-INFO
+trina.egg-info/SOURCES.txt
+trina.egg-info/dependency_links.txt
+trina.egg-info/entry_points.txt
+trina.egg-info/top_level.txt

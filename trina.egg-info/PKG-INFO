@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: trina
+Version: 0.1.0
+Summary: A distributed source control system
+Home-page: https://github.com/aine-mbabazi/Source-Control-System
+Author: Your Name
+Author-email: patainembabazi@gmail.com
+
+Trina is a simple, Git-like version control system

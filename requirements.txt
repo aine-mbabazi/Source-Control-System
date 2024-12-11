@@ -1,0 +1,5 @@
+setuptools==75.6.0
+json
+pickle
+shutil
+
